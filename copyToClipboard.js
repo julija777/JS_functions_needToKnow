@@ -6,3 +6,4 @@
 const copyToClipboard = (text) => navigator.clipboard.writeText(text);
 
 console.log (copyToClipboard('Hello World!'));
+
